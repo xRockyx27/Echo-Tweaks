@@ -10,7 +10,7 @@ Echo Tweaks is a simple and safe Fortnite tweak that helps boost FPS and reduce 
 ✅ Simple to use and **completely safe**  
 
 ## 🔧 How to Use:
-1. Download `echo_tweaks.bat` from this repository.  
+1. Download `echo_tweaks.zip` from this repository.  
 2. Right-click on the file and select **"Run as administrator"**.  
 3. Let the tweaks apply, then restart your PC for the best results.  
 
