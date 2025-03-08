@@ -7,14 +7,21 @@ Echo Tweaks is a simple and safe Fortnite tweak designed to enhance your FPS and
 - Windows **Registry tweaks** to improve system speed
 - **Disable Game Bar** and **Windows Update** temporarily to save resources
 
-## 🔧 How to Use:
-1. Download the `echo-tweaks.zip` file from this repository.
-2. Right-click on the file and select **"Run as administrator"**.
-3. The script will automatically apply the tweaks to your system.
-4. Restart your PC for the best results.
+## How to use:
+1. Download the `echo-tweaks.txt` file.
+2. Rename the file from `echo-tweaks.txt` to `echo-tweaks.bat`.
+   - Right-click the file and choose **Rename**.
+   - Change the file extension from `.txt` to `.bat` and press **Enter**.
+3. Run the `.bat` file as an administrator:
+   - Right-click the file and select **Run as administrator**.
+
+This script will apply optimizations to Fortnite and your Windows settings.
 
 ## ⚠️ Disclaimer:
 This tweak **does not modify game files** and is completely safe.  
 Use at your own risk. Always back up your files and settings.
 
 Enjoy smoother gameplay with **Echo Tweaks**! 🎮🔥
+# Echo Tweaks
+
+This is the **Echo Tweaks** script to improve Fortnite performance and optimize Windows settings for better FPS and overall gaming experience.
